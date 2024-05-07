@@ -1,5 +1,6 @@
+
 hello,only!hello,Git!  master
-hello,only!hello,Git!
+hello,only!hello,Git! hot-fix
 hello,only!hello,Git!
 hello,only!hello,Git!
 hello,only!hello,Git!
